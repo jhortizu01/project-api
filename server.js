@@ -1,7 +1,9 @@
 const express = require('express');
 const app = express();
 const projectData = require('./project-data')
+const cors = require('cors');
 
+app.use(cors());
 app.set('port', process.env.PORT || 8080);
 app.locals.title = 'projects';
 app.locals.projects = projectData
