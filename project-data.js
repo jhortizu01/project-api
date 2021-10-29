@@ -1,6 +1,39 @@
 let projects = [
   {
-    "id" : 1,
+    "id": 8,
+    "projectTitle": "Janika Codes Stuff",
+    "duration": "10 days",
+    "picture": "https://live.staticflickr.com/65535/51637556085_5915132bff_h.jpg",
+    "techStack": ["Javascript", "HTML", "CSS", "React", "WAI-ARIA", "Cypress", "Expres.js", "Heroku", "JS Paint"], 
+    "github": "https://github.com/jhortizu01/janika-codes-stuff",
+    "description": "The pièce de résistance! This website shows the users projects I've bade as well as a little story about myrself",
+    "favoritePart": "LITERALLY EVERYTHING! This is my first pet projects and something that I made for myself. I got to design everything on this project and even hand rolled the express API data myself. Learned how to use Heroku to deploy my website and my api. In the making of this project I realized how far I've come in my software developer journey. ",
+    "worstPart": "None, this project makes me feel warm and fuzzy on the inside."
+  }, 
+  {
+    "id": 7,
+    "projectTitle": "Project API",
+    "duration": "1 day",
+    "picture": "https://live.staticflickr.com/65535/51637361454_0192ea71ba_h.jpg",
+    "techStack": ["Expres.js"], 
+    "github": "https://github.com/jhortizu01/janika-codes-stuff",
+    "description": "API I built to hold the data for my projects",
+    "favoritePart": "Not much to say, this was a necessary evil to create my website. Express is ok  🤷🏽‍♀️",
+    "worstPart": "Meh"
+  },
+  {
+    "id": 6,
+    "projectTitle": "Rancid Tomatillos",
+    "duration": "1 week",
+    "picture": "https://live.staticflickr.com/65535/51637556085_5915132bff_h.jpg",
+    "techStack": ["Javascript", "HTML", "CSS", "React", "WAI-ARIA", "Cypress", "Expres.js"], 
+    "github": "https://github.com/jhortizu01/rancid-tomatillos",
+    "description": "Displays available movies to the user, user can also add movies to their watchlist",
+    "favoritePart": "First React project! Definitely had a blast learning this new technology. So much faster to build web applications rather than doing it the Vanilla JS way. Also loved learning how to create the API for this one",
+    "worstPart": "NONE! Definitely one of my favorite projects thus far."
+  },  
+  {
+    "id" : 5,
     "projectTitle": "Overlook",
     "duration": "1 Week",
     "picture": "https://live.staticflickr.com/65535/51627062660_1675a24a5d_h.jpg",
@@ -11,7 +44,7 @@ let projects = [
     "worstPart": "Trying to figure out how to turn my true and false values from my drop down into booleans was the biggest pain in the ass and ended up being a really easy solution"
   }, 
   {
-    "id": 2,
+    "id": 4,
     "projectTitle": "Spacetagram",
     "duration": "4 Days",
     "picture": "https://live.staticflickr.com/65535/51627062535_c6e28cfe98_h.jpg",
@@ -33,7 +66,7 @@ let projects = [
     "worstPart": "The game was played through the terminal so there was no HTML/CSS involved. BORING!!!"
   }, 
   {
-    "id": 4,
+    "id": 2,
     "projectTitle": "Static Comp",
     "duration": "5 Days?",
     "picture": "https://live.staticflickr.com/65535/51627062515_7ef0ba1f1e_h.jpg",
@@ -44,7 +77,7 @@ let projects = [
     "worstPart": "Sometimes CSS is not your friend and doesn't do what you tell it to do even though you ask nicely."
   }, 
   {
-    "id": 5,
+    "id": 1,
     "projectTitle": "Self Care Center",
     "duration": "1 week",
     "picture": "https://live.staticflickr.com/65535/51626206751_a401de0f04_h.jpg",
@@ -53,7 +86,7 @@ let projects = [
     "description": "User logs in and chooses to see a random quote or affirmation",
     "favoritePart": "This was my first solo project. It was funny getting my hands dirty and creating something 'out of scratch'. ",
     "worstPart": "No worst parts for this project for me. It was just fun. Looking at it now I might make some revisions though..."
-  } 
+  }
 ]
 
 module.exports = projects
