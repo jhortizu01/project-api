@@ -36,7 +36,7 @@ let projects = [
     "id" : 5,
     "projectTitle": "Overlook",
     "duration": "1 Week",
-    "picture": "https://live.staticflickr.com/65535/51627062660_1675a24a5d_h.jpg",
+    "picture": "https://live.staticflickr.com/65535/51626426503_671655c413_h.jpg",
     "techStack": ["Javascript", "HTML", "SCSS", "Mocha", "Chai", "Consuming Web API"], 
     "github": "https://github.com/jhortizu01/Overlook",
     "description": "The Overlook is an app that shows users past,present and future bookings for their hotel stay. Users can also book a room with their specified date and preferences.",
