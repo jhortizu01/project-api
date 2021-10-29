@@ -25,7 +25,7 @@ let projects = [
     "id": 6,
     "projectTitle": "Rancid Tomatillos",
     "duration": "1 week",
-    "picture": "https://live.staticflickr.com/65535/51637556085_5915132bff_h.jpg",
+    "picture": "https://live.staticflickr.com/65535/51637351524_658bc613b8_h.jpg",
     "techStack": ["Javascript", "HTML", "CSS", "React", "WAI-ARIA", "Cypress", "Expres.js"], 
     "github": "https://github.com/jhortizu01/rancid-tomatillos",
     "description": "Displays available movies to the user, user can also add movies to their watchlist",
