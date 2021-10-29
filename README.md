@@ -23,6 +23,6 @@ To install the server and run a local server it on your computer:
         "Javascript",
         "HTML",
         "CSS",
-        "React",...]`
+        "React",...}]`
 
 
