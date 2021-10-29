@@ -15,8 +15,7 @@ To install the server and run a local server it on your computer:
 
 | Method | Endpoint | Request Body | Sample Response |
 --- | --- | --- | ---
-`GET` | `/api/v1/projects` | `n/a` | `[{
-      "id": 8,
+`GET` | `/api/v1/projects` | `n/a` | `[{ "id": 8,
       "projectTitle": "Janika Codes Stuff",
       "duration": "10 days",
       "picture": "https://live.staticflickr.com/65535/51637556085_5915132bff_h.jpg",
@@ -24,6 +23,6 @@ To install the server and run a local server it on your computer:
         "Javascript",
         "HTML",
         "CSS",
-        "React",]`
+        "React",...]`
 
 
